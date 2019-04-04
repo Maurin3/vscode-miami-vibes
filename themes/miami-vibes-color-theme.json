@@ -1,5 +1,7 @@
 {
-    "workbench.colorCustomizations": {
+    "name": "Miami Vibes",
+    "type": "dark",
+    "colors": {
         "activityBar.background": "#010219",
         "activityBar.foreground": "#ced0fd",
         "activityBarBadge.background": "#C4246A",
@@ -10,6 +12,9 @@
         "dropdown.background": "#020536",
         "dropdown.listBackground": "#020536",
         "editor.background": "#010219",
+        "editorCursor.foreground": "#C4246A",
+        "editorLineNumber.foreground": "#ced0fd",
+        "editorLineNumber.activeForeground": "#C4246A",
         "editorGroup.emptyBackground":"#020536",
         "editorGroupHeader.tabsBackground": "#020536",
         "input.background": "#010219",
@@ -30,6 +35,13 @@
         "tab.activeBorder": "#C4246A",
         "tab.border": "#010219",
         "tab.inactiveBackground": "#020536",
-        "terminal.background": "#010219"
-    }
+        "terminal.background": "#010219",
+        "terminalCursor.background": "#C4246A",
+        "terminalCursor.foreground": "#C4246A",
+        "titleBar.activeBackground": "#010219",
+        "titleBar.activeForeground":"#ced0fd",
+        "welcomePage.background":"#010219",
+        "welcomePage.buttonBackground":"#020536"
+    },
+    "tokenColors": "../Miami-Vibes.tmTheme"
 }

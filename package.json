@@ -1,5 +1,6 @@
 {
     "publisher": "Maurin3",
+    "name": "miami-vibes",
     "engines": {
         "vscode": "^1.32.3"
     },
@@ -7,8 +8,17 @@
         "Themes"
     ],
     "displayName": "Miami Vibes",
-    "version": "1.0",
+    "version": "1.0.0",
     "repository": {
         "url": "https://github.com/Maurin3/vscode-miami-vibes"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "Miami Vibes",
+                "uiTheme": "vs-dark",
+                "path": "./themes/miami-vibes-color-theme.json"
+            }
+        ]
     }
 }
