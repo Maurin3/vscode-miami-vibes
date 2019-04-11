@@ -19,6 +19,7 @@
         "editor.findMatchBackground": "#c4246a59",
         "editor.findMatchHighlightBackground": "#c4246a28",
         "editor.wordHighlightBackground": "#6b72fa28",
+        "editor.lineHighlightBorder": "#6b72fa28",
         "editor.hoverHighlightBackground": "#6b72fa59",
         "editorWidget.background": "#020431",
         "editorWidget.border": "#C4246A",
