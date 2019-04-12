@@ -10,7 +10,8 @@
         "badge.foreground": "#020536",
         "button.background": "#C4246A",
         "debugToolBar.background": "#010219",
-        "diffEditor.insertedTextBackground":"#b3ff667a",
+        "diffEditor.insertedTextBackground":"#00ff881c",
+        "diffEditor.removedTextBackground":"#fa00361c",
         "dropdown.background": "#020536",
         "dropdown.listBackground": "#020536",
         "editor.background": "#010219",
@@ -22,6 +23,9 @@
         "editor.wordHighlightBackground": "#6b72fa28",
         "editor.lineHighlightBorder": "#6b72fa28",
         "editor.hoverHighlightBackground": "#6b72fa59",
+        "editorGutter.addedBackground": "#00ff88",
+        "editorGutter.deletedBackground": "#fa0036",
+        "editorGutter.modifiedBackground": "#2e00fa",
         "editorWidget.background": "#020431",
         "editorWidget.border": "#C4246A",
         "editorBracketMatch.background": "#c4246a80",
@@ -33,8 +37,22 @@
         "editorLineNumber.activeForeground": "#C4246A",
         "editorGroup.emptyBackground":"#020431",
         "editorGroupHeader.tabsBackground": "#020431",
+        "editorWarning.foreground": "#00ff88",
+        "editorError.foreground": "#fa0036",
+        "editorInfo.foreground": "#2e00fa",
+        "editorOverviewRuler.modifiedForeground": "#2e00fa",
+        "editorOverviewRuler.addedForeground": "#00ff88",
+        "editorOverviewRuler.deletedForeground": "#fa0036",
+        "editorOverviewRuler.infoForeground": "#2e00fa",
+        "editorOverviewRuler.warningForeground": "#00ff88",
+        "editorOverviewRuler.errorForeground": "#fa0036",
+        "gitDecoration.untrackedResourceForeground": "#00ff88",
+        "gitDecoration.modifiedResourceForeground": "#2f00ff",
+        "gitDecoration.deletedResourceForeground": "#fa0036",
         "input.background": "#010219",
         "input.foreground": "#C4246A",
+        "list.errorForeground": "#fa0036",
+        "list.warningForeground": "#00ff88",
         "list.activeSelectionBackground": "#010219",
         "list.inactiveSelectionBackground": "#010219",
         "list.activeSelectionForeground": "#db3d82",
@@ -53,9 +71,13 @@
         "peekViewTitleLabel.foreground": "#C4246A",
         "peekViewTitleDescription.foreground": "#6b72fa",
         "selection.background": "#c4246a80",
+        "settings.textInputBorder": "#6b72fa",
+        "settings.modifiedItemIndicator": "#2f00ff",
+        "settings.headerForeground": "#C4246A",
+        "settings.checkboxForeground": "#6b72fa",
         "scrollbar.shadow": "#010219AA",
         "scrollbarSlider.background": "#6b72fa28",
-        "scrollbarSlider.activeBackground":"#6b72fa",
+        "scrollbarSlider.activeBackground":"#6b72fa28",
         "scrollbarSlider.hoverBackground": "#6b72fa28",
         "sideBar.background": "#020431",
         "sideBar.dropBackground": "#010219",
@@ -238,7 +260,6 @@
             "name": "Invalid",
             "scope": "invalid",
             "settings": {
-                "background": "#F92672",
                 "fontStyle": "",
                 "foreground": "#F8F8F0"
             }
@@ -247,7 +268,6 @@
             "name": "Invalid deprecated",
             "scope": "invalid.deprecated",
             "settings": {
-                "background": "#AE81FF",
                 "foreground": "#F8F8F0"
             }
         },
@@ -258,7 +278,6 @@
                 "meta.diff.header"
             ],
             "settings": {
-                "background": "#b58900",
                 "fontStyle": "italic",
                 "foreground": "#E0EDDD"
             }
@@ -267,7 +286,6 @@
             "name": "diff: deleted",
             "scope": "markup.deleted",
             "settings": {
-                "background": "#eee8d5",
                 "fontStyle": "",
                 "foreground": "#dc322f"
             }
@@ -276,7 +294,6 @@
             "name": "diff: changed",
             "scope": "markup.changed",
             "settings": {
-                "background": "#eee8d5",
                 "fontStyle": "",
                 "foreground": "#cb4b16"
             }
@@ -285,7 +302,6 @@
             "name": "diff: inserted",
             "scope": "markup.inserted",
             "settings": {
-                "background": "#eee8d5",
                 "foreground": "#219186"
             }
         },
