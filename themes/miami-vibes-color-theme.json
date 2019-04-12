@@ -27,7 +27,7 @@
         "editorBracketMatch.background": "#c4246a80",
         "editorBracketMatch.border": "#c4246a80",
         "editorLink.activeForeground": "#6b72fa59",
-        "editorWhitespace.foreground": "#6b72fa",
+        "editorWhitespace.foreground": "#384887",
         "editorCursor.foreground": "#C4246A",
         "editorLineNumber.foreground": "#6b72fa",
         "editorLineNumber.activeForeground": "#C4246A",
@@ -84,7 +84,7 @@
             "name": "Comment",
             "scope": "comment",
             "settings": {
-                "foreground": "#384887"
+                "foreground": "#6b72fa"
             }
         },
         {
