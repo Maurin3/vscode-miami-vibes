@@ -211,39 +211,6 @@
             }
         },
         {
-            "name": "Markup Inline",
-            "scope": "markup.inline.raw",
-            "settings": {
-                "fontStyle": "",
-                "foreground": "#9966b8"
-            }
-        },
-        {
-            "name": "Markup Quote",
-            "scope": "markup.quote",
-            "settings": {
-                "foreground": "#22aa44"
-            }
-        },
-        {
-            "name": "Markup Setext Header",
-            "scope": "markup.heading.setext",
-            "settings": {
-                "fontStyle": "",
-                "foreground": "#ddbb88"
-            }
-        },
-        {
-            "name": "Markup Styling",
-            "scope": [
-                "markup.bold",
-                "markup.italic"
-            ],
-            "settings": {
-                "foreground": "#22aa44"
-            }
-        },
-        {
             "name": "Number",
             "scope": "constant.numeric",
             "settings": {
