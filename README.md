@@ -1,6 +1,6 @@
 # Miami Vibes
 
-![preview](https://github.com/Maurin3/vscode-miami-vibes/master/media/preview.png?raw=true)
+![preview](https://github.com/Maurin3/vscode-miami-vibes/blob/master/media/preview.png)
 
 ## Installation
 
