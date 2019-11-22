@@ -15,6 +15,7 @@
         "type": "git",
         "url": "https://github.com/Maurin3/vscode-miami-vibes"
     },
+    "icon": "icon.png",
     "contributes": {
         "themes": [
             {

@@ -1,4 +1,4 @@
-# Miami Vibes
+# <img src="https://raw.githubusercontent.com/Maurin3/vscode-miami-vibes/master/icon.png" width="30" height="30"> Miami Vibes
 
 ![preview](https://raw.githubusercontent.com/Maurin3/vscode-miami-vibes/master/media/preview.png)
 
