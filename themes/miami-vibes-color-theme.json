@@ -72,6 +72,8 @@
         "peekViewTitle.background": "#020536",
         "peekViewTitleDescription.foreground": "#6b72fa",
         "peekViewTitleLabel.foreground": "#C4246A",
+        "pickerGroup.foreground": "#C4246A",
+        "pickerGroup.border": "#C4246A",
         "scrollbar.shadow": "#010219AA",
         "scrollbarSlider.activeBackground": "#6b72fa28",
         "scrollbarSlider.background": "#6b72fa28",
