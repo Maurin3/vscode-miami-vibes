@@ -46,6 +46,7 @@
         "editorWidget.background": "#020431",
         "editorWidget.border": "#C4246A",
         "focusBorder": "#db3d82",
+        "progressBar.background": "#C4246A",
         "gitlens.trailingLineForegroundColor": "#6b72faAA",
         "gitDecoration.deletedResourceForeground": "#fa0036",
         "gitDecoration.modifiedResourceForeground": "#1F618D",
