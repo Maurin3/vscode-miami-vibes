@@ -47,6 +47,8 @@
         "editorWidget.border": "#C4246A",
         "focusBorder": "#db3d82",
         "progressBar.background": "#C4246A",
+        "editorOverviewRuler.findMatchForeground": "#971c51",
+        "minimap.findMatchHighlight": "#971c51",
         "gitlens.trailingLineForegroundColor": "#6b72faAA",
         "gitDecoration.deletedResourceForeground": "#fa0036",
         "gitDecoration.modifiedResourceForeground": "#1F618D",
