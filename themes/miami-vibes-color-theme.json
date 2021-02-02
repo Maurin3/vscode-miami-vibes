@@ -73,6 +73,8 @@
         "notifications.background": "#020536",
         "panelTitle.activeBorder": "#C4246A",
         "peekViewTitle.background": "#020536",
+        "editorMarkerNavigation.background": "#020536",
+        "debugExceptionWidget.background": "#020536",
         "peekViewTitleDescription.foreground": "#6b72fa",
         "peekViewTitleLabel.foreground": "#C4246A",
         "pickerGroup.foreground": "#C4246A",
